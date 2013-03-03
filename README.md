@@ -1,6 +1,6 @@
-# Youtube parser for Xenforo Custom BB Code Manager Add-on
+# YouTube BB tag for Xenforo Custom BB Code Manager
 
-Custom Youtube parser for XenForo Custom BB Code Manager add-on.
+Custom YouTube parser for XenForo Custom BB Code Manager add-on.
 
 Instead of finding all instances of `[youtube]xxx[/youtube]` in your database and replacing them with `[media=youtube]xxx[/media]`, use this parser in conjunction with the [Custom BB Code Manager](http://xenforo.com/community/resources/custom-bb-code-manager.173/) and it'll just work.
 
